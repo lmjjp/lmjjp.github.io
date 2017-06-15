@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px;padding:0px;}
+a{float:left;
+background:url(../img/2.png) no-repeat;
+margin-top:5px;
+display:block;
+width:73px;
+height:70px;
+overflow:hidden;}
+#menu{ height:87px;
+background:url(../img/2.png) repeat-x -0px -200px;
+overflow:hidden;
+text-align:center;
+line-height:87px;
+}
+
+#menu a.home{background-position:-14px -5px;}
+#menu a.home:hover{background-position:-14px -92px;}
+#menu a.front{background-position:-90px -5px;}
+#menu a.front:hover{background-position:-90px -92px;}
+#menu a.next{background-position:-162px -5px;}
+#menu a.next:hover{background-position:-162px -92px;}
+#menu a.tools{background-position:-236px -5px;}
+#menu a.tools:hover{background-position:-236px -92px;}
+#menu a.web{background-position:-310px -5px;}
+#menu a.web:hover{background-position:-310px -92px;}
+#menu a.lock{background-position:-384px -5px;}
+#menu a.lock:hover{background-position:-384px -92px;}
+#menu a.key{background-position:-458px -5px;}
+#menu a.key:hover{background-position:-458px -92px;}
+#menu a.turn{background-position:-532px -5px;}
+#menu a.turn:hover{background-position:-532px -92px;}
+
+
+
+

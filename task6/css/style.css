@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+.nav{
+    background: url(../images/task6.png) repeat-x 0px -200px;
+    height:86px;
+}
+.nav a{
+    display:block ;
+    width:73px;
+    height:86px;
+    background: url(../images/task6.png);
+    float:left;
+}
+.nav a.home{
+    background-position: -16px 0px;
+}
+.nav a.home:hover{
+     background-position: -16px -87px;
+}
+.nav a.prev{
+    background-position:-89px 0px;
+}
+.nav a.prev:hover{
+     background-position: -89px -87px;
+}    
